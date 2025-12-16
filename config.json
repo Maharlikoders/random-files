@@ -1,6 +1,6 @@
 {
-    "note_enable": false,
-    "note_message": "This app is not stable anymore with Android 10-below, try this new injector for you!",
+    "note_enable": true,
+    "note_message": "Download our latest injector!",
     "note_clickable": true,
     "note_url": "https://mlbb-toolkit.github.io/"
 }
